@@ -1,0 +1,36 @@
+{
+  "Xray":[
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/xray/1/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/xray/config.json",
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/xray/3/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/xray/2/config.json"
+  ],
+  "clash.meta":[
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/clash.meta/1/config.yaml",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/clash.meta/config.yaml",
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/clash.meta/13/config.yaml",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/clash.meta/2/config.yaml",
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/clash.meta/15/config.yaml",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/clash.meta/3/config.yaml"
+  ],
+  "hysteria":[
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/hysteria/1/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/hysteria/config.json",
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/hysteria/13/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/hysteria/2/config.json"
+  ],
+  "hysteria2":[
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/hysteria2/1/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/hysteria2/config.json",
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/hysteria2/13/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/hysteria2/2/config.json"
+  ],
+  "naiveproxy":[
+    "https://www.gitlabip.xyz/Alvin9999/PAC/master/naiveproxy/1/config.json",
+    "https://www.githubip.xyz/Alvin9999/PAC/master/naiveproxy/config.json"
+  ],
+  "singbox":[
+    "https://www.gitlabip.xyz/Alvin9999/pac2/master/singbox/1/config.json",
+    "https://www.githubip.xyz/Alvin9999/pac2/master/singbox/config.json"
+  ]
+}
